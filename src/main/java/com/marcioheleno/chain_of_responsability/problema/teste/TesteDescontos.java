@@ -1,8 +1,8 @@
-package com.marcioheleno.strategy.problema.teste;
+package com.marcioheleno.chain_of_responsability.problema.teste;
 
-import com.marcioheleno.strategy.problema.imposto.CalculadoraDeImpostos;
-import com.marcioheleno.strategy.problema.imposto.TipoImposto;
-import com.marcioheleno.strategy.problema.orcamento.Orcamento;
+import com.marcioheleno.chain_of_responsability.problema.imposto.CalculadoraDeImpostos;
+import com.marcioheleno.chain_of_responsability.problema.imposto.TipoImposto;
+import com.marcioheleno.chain_of_responsability.problema.orcamento.Orcamento;
 
 import java.math.BigDecimal;
 
@@ -10,7 +10,7 @@ import java.math.BigDecimal;
  * @author marciopessoa
  * @date 15/07/22
  */
-public class TesteImpostoStrategy {
+public class TesteDescontos {
 
     public static void main(String[] args) {
         Orcamento orcamento = new Orcamento(new BigDecimal("100"));

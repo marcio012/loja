@@ -1,4 +1,4 @@
-package com.marcioheleno.strategy.solucao.orcamento;
+package com.marcioheleno.chain_of_responsability.solucao.orcamento;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -15,5 +15,6 @@ import java.math.BigDecimal;
 public class Orcamento {
 
     private BigDecimal valor;
+    private int quantidadeItens;
 
 }

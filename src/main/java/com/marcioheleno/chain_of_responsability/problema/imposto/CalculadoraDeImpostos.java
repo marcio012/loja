@@ -1,6 +1,6 @@
-package com.marcioheleno.strategy.problema.imposto;
+package com.marcioheleno.chain_of_responsability.problema.imposto;
 
-import com.marcioheleno.strategy.problema.orcamento.Orcamento;
+import com.marcioheleno.chain_of_responsability.problema.orcamento.Orcamento;
 
 import java.math.BigDecimal;
 

@@ -1,6 +1,6 @@
-package com.marcioheleno.strategy.solucao.imposto;
+package com.marcioheleno.chain_of_responsability.solucao.imposto;
 
-import com.marcioheleno.strategy.solucao.orcamento.Orcamento;
+import com.marcioheleno.chain_of_responsability.solucao.orcamento.Orcamento;
 
 import java.math.BigDecimal;
 

@@ -1,9 +1,9 @@
-package com.marcioheleno.strategy.solucao.teste;
+package com.marcioheleno.chain_of_responsability.solucao.teste;
 
-import com.marcioheleno.strategy.solucao.imposto.CalculadoraDeImpostos;
-import com.marcioheleno.strategy.solucao.imposto.ICMS;
-import com.marcioheleno.strategy.solucao.imposto.ISS;
-import com.marcioheleno.strategy.solucao.orcamento.Orcamento;
+import com.marcioheleno.chain_of_responsability.solucao.imposto.CalculadoraDeImpostos;
+import com.marcioheleno.chain_of_responsability.solucao.imposto.ICMS;
+import com.marcioheleno.chain_of_responsability.solucao.imposto.ISS;
+import com.marcioheleno.chain_of_responsability.solucao.orcamento.Orcamento;
 
 import java.math.BigDecimal;
 

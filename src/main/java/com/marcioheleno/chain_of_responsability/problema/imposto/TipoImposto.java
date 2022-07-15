@@ -1,4 +1,4 @@
-package com.marcioheleno.strategy.problema.imposto;
+package com.marcioheleno.chain_of_responsability.problema.imposto;
 
 /**
  * @author marciopessoa
