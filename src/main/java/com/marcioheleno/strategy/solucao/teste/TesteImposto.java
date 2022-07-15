@@ -11,7 +11,7 @@ import java.math.BigDecimal;
  * @author marciopessoa
  * @date 15/07/22
  */
-public class TesteImpostoStrategy {
+public class TesteImposto {
 
     public static void main(String[] args) {
         Orcamento orcamento = new Orcamento(new BigDecimal("100"));
